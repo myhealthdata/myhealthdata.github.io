@@ -19,3 +19,5 @@ Using the Blockchain technology, we invite everyone, through our interactions, t
 5. User-focused solution, in which the Individuals will always be at the forefront of institutions, whether they are governments or for-profit entities.
 
 In short, the agentes information flows will be able to produce, transmit and generate the social capital of a health built by all.
+
+If you agree with these terms and would like to join us tweet your reasons why and use #myhealthdata
