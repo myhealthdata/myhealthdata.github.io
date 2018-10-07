@@ -1,0 +1,22 @@
+#mhdLogo {
+    width: 400px;
+    height: 200px;
+    text-align: center;
+}
+
+#logoMHD {
+    margin: 0%;
+    text-align: center;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
