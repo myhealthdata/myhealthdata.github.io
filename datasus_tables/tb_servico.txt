@@ -1,0 +1,67 @@
+100Serviço de Atenção a Saúde no Sistema Penitenciário                                                                     201808
+101Estratégia de Saúde da Família                                                                                          201808
+102Estratégias de Agentes Comunitário de Saúde                                                                             201808
+103Serviço de Atendimento Móvel de Urgências                                                                               201808
+104Regulação Assistêncial dos Serviços de Saúde                                                                            201808
+105Serviço de Atenção em Neurologia/ Neurocirurgia                                                                         201808
+106Serviço de Atenção a DST/HIV/AIDS                                                                                       201808
+107Serviço de Atenção a Saúde Auditiva                                                                                     201808
+108Serviço de Atenção a Aaúde do Trabalhador                                                                               201808
+109Serviço de Atenção a Saúde dos Adolecentes em Conflito com a Lei, em Regime de Internação e Internação Provisória       201808
+110Serviço de Atenção a Saúde Reprodutiva                                                                                  201808
+111Serviço de Atenção ao Paciente com Tuberculose                                                                          201808
+112Serviço de Atenção ao Pré-Natal, Parto e Nascimento                                                                     201808
+113Serviço de Atenção Domiciliar                                                                                           201808
+114Serviço de Atenção em Saúde Bucal                                                                                       201808
+115Serviço de Atenção Psicossocial                                                                                         201808
+116Serviço de Atenção Cardiovascular/Cardiologia                                                                           201808
+117Serviço de Cirurgia Reparadora                                                                                          201808
+118Serviço de Cirurgia Torácica                                                                                            201808
+119Serviço de Controle de Tabagismo                                                                                        201808
+120Serviço de Diagnóstico por Anatomia Patológica e/ou Citopatologia                                                       201808
+121Diagnóstico por Imagem                                                                                                  201808
+122Serviço de Diagnóstico por Métodos Gráficos/Dinâmicos                                                                   201808
+123Serviço de Dispensação de Órteses, Próteses e Materiais Especiais                                                       201808
+124Serviço de Endocrinologia                                                                                               201808
+125Serviço de Farmácia                                                                                                     201808
+126Serviço de Fisioterapia                                                                                                 201808
+127Serviço de Atenção à Obesidade                                                                                          201808
+128Serviço de Hemoterapia                                                                                                  201808
+129Servico de Laboratório de Histocompatibilidade                                                                          201808
+130Atenção à Doença Renal Crônica                                                                                          201808
+131Serviço de Oftalmologia                                                                                                 201808
+132Serviço de Oncologia                                                                                                    201808
+133Serviço de Pneumologia                                                                                                  201808
+134Serviço de Práticas Integrativas e Complementares                                                                       201808
+135Serviço de Reabilitação                                                                                                 201808
+136Serviço de Suporte Nutricional                                                                                          201808
+137Serviço de Telemedicina                                                                                                 201808
+138Serviço de Traumato-Ortopedia                                                                                           201808
+139Serviço de Triagem Neonatal                                                                                             201808
+140Serviço de Urgência e Emergência                                                                                        201808
+141Serviço de Vigilância em Saúde                                                                                          201808
+142Serviço de Endoscopia                                                                                                   201808
+143Serviço Móvel de Urgência (exceto SAMU)                                                                                 201808
+144Serviço Posto de Coleta de Materiais Biológicos                                                                         201808
+145Serviço de Diagnóstico por Laboratório Clínico                                                                          201808
+146Serviço de Videolaparoscopia                                                                                            201808
+147Serviço de Apoio a Saúde da Família                                                                                     201808
+148Hospital-Dia                                                                                                            201808
+149Transplante                                                                                                             201808
+150Cirurgia Vascular                                                                                                       201808
+151Medicina Nuclear                                                                                                        201808
+153Atenção Especializada no Processo Transexualizador                                                                      201808
+154Serviço de Banco de Tecidos                                                                                             201808
+155Serviço de Traumatologia  Ortopedia                                                                                     201808
+156Serviço de Atenção á Saúde das Pessoas Ostomizadas                                                                      201808
+157Serviço de Laboratorio de Protese Dentaria                                                                              201808
+158Serviço de Atenção Integral em Hanseniase                                                                               201808
+159Atenção Básica                                                                                                          201808
+160Teleconsultoria                                                                                                         201808
+162Serviço de Terapia Intensiva                                                                                            201808
+163Serviço de Cuidados Intermediários                                                                                      201808
+164Serviço de Órteses,Próteses e Materiais Especiais em Reabilitação                                                       201808
+165Atenção às Pessoas em Situação de Violência Sexual                                                                      201808
+167Atendimento Itinerante de Asistência e Ensino em Saúde                                                                  201808
+168Atenção Às Pessoas com Doenças Raras                                                                                    201808
+169Serviço de Atenção em Urologia                                                                                          201808
