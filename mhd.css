@@ -24,13 +24,17 @@ h3 {
 table {
     border-width: 1px;
     width: 90%;
-    
+
 }
 
 th {
     background-color: lightgrey;
     font-weight: bold;
     text-align: center;
+}
+
+pre {
+    width: 90%;
 }
 
 .tbCenter {
