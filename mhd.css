@@ -20,3 +20,21 @@ h2 {
 h3 {
     text-align: center;
 }
+
+table {
+    border-width: 1px;
+}
+
+th {
+    background-color: lightgrey;
+    font-weight: bold;
+    text-align: center;
+}
+
+.tbCenter {
+    text-align: center;
+}
+
+.tbLeft {
+    text-align: left;
+}
